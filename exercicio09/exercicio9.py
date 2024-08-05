@@ -10,10 +10,10 @@ while True:
     print("Digite um numero positivo")
     continue
    
-if numero %2 ==0:
+  if numero %2 ==0:
     contagem_pares +=1
 
-else:
+  else:
    contagem_impar +=1
 
 
